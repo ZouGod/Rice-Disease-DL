@@ -1,10 +1,9 @@
-```markdown
+
 # Rice Disease Recognition - Deep Learning Model
 
 This repository contains the deep learning models for detecting and classifying rice diseases from leaf images.
 The system uses convolutional neural networks (CNNs) to achieve high-accuracy disease identification.
 
-```
 ## 🧠 Model Architecture
 
 ### Implemented Models:
