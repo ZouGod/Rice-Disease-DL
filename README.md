@@ -1,10 +1,10 @@
-Here's a focused README.md specifically for the deep learning model and how to run it:
-
 ```markdown
 # Rice Disease Recognition - Deep Learning Model
 
-This repository contains the deep learning models for detecting and classifying rice diseases from leaf images. The system uses convolutional neural networks (CNNs) to achieve high-accuracy disease identification.
+This repository contains the deep learning models for detecting and classifying rice diseases from leaf images.
+The system uses convolutional neural networks (CNNs) to achieve high-accuracy disease identification.
 
+```
 ## 🧠 Model Architecture
 
 ### Implemented Models:
@@ -16,7 +16,7 @@ This repository contains the deep learning models for detecting and classifying 
 ### Model Specifications:
 - Input size: 224×224 pixels (RGB)
 - Output classes: 5 common rice diseases + healthy class
-- Training dataset: 175,000 labeled images
+- Training dataset: 17,500 labeled images
 - Augmentation: Rotation, flipping, brightness adjustment
 
 ## 🚀 How to Run the Models
@@ -31,7 +31,6 @@ This repository contains the deep learning models for detecting and classifying 
 ### Installation:
 ```bash
 pip install tensorflow keras opencv-python numpy
-```
 
 ### Running the Models:
 
